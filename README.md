@@ -7,7 +7,7 @@ I'm a medical student at Charité Berlin, one of Europe's largest university hos
 
 ### 🏥 Medicine
 - Currently pursuing my medical degree at Charité Berlin
-- Interested in BCIs, Neurology, Pharmacology, Surgery and all things Biotech
+- Interested in BCIs, Computational Neuroscience, Pharmacology, Surgery and all things Digital Health
 - Committed to evidence-based practice and technological andvancements
 
 ### 💻 Technology
@@ -20,6 +20,7 @@ I'm a medical student at Charité Berlin, one of Europe's largest university hos
 ## Connect with Me
 
 - X @nireut
+- nils.reuter@charite.de
 
 Feel free to reach out if you're interested in collaborating on various projects!
 
