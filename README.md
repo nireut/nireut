@@ -1,6 +1,4 @@
 ## Hello, I'm Nils 👋
 
-I'm a medical student at Charité Berlin, Europe's largest university hospital. My passion lies at the intersection of medicine and technology, where I believe the future of healthcare is being shaped.
-
-
+I'm a medical student at Charité Berlin, building multimodal AI systems that integrate genomic, spatial, and clinical data to decode disease mechanisms and translate them into actionable treatment decisions.
 
